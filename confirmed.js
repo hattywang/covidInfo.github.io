@@ -34,7 +34,7 @@ function update(n1) {
       .remove();
 
   cell.enter().append("rect")
-      .attr("fill","#ed5f64)
+      .attr("fill","#ed5f64")
       .attr("width", 0)
       .attr("height", cellSize)
       .attr("x", function(i) {
