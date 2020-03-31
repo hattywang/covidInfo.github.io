@@ -7,8 +7,8 @@ var height = 500;
 		active = d3.select(null);
 		active.text
 
-var lowColor = '#edd6d1'
-var highColor = '#ed5f64'
+var lowColor = '#e8cfd4'
+var highColor = '#c90630'
 
 // D3 Projection
 var projection = d3.geoAlbersUsa()
